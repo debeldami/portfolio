@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+
+  &-li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-icon {
+    font-size: 2rem;
+  }
+}

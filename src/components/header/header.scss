@@ -1,0 +1,14 @@
+.header {
+  width: 6rem;
+  min-height: 100vh;
+
+  &-logo {
+    height: 7rem;
+    background-color: pink;
+  }
+
+  &-social {
+    height: 9rem;
+    background-color: pink;
+  }
+}
